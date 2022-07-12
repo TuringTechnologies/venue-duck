@@ -3,14 +3,14 @@ let fbombTeamMates = [
   // "Leandro",
   // "Rainer",
   // "Grant",
-  "Elinor",
+  // "Elinor",
   "Ruslan",
   "Jason",
   // "Ann",
   // "Michael",
   "Tom",
   "Sam",
-  "Max",
+  // "Max",
 ];
 
 const devJokes = [
