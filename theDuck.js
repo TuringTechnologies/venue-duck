@@ -11,7 +11,7 @@ let fbombTeamMates = [
   "Talk to us, Tom!",
   "How are you doing, Sam?",
   "Anything from El?",
-  "Any updates from El & Adam?",
+  "Any updates from Adam?",
   // "Max",
 ];
 
